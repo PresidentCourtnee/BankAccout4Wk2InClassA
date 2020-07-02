@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\r\n\ @author\ Courtnee\ Sullivan\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=acctNum\ intRate\ acctBal
+comment1.target=BankAccount(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ accureInterest()
+comment3.params=
+comment3.target=int\ getCourtnee()
+comment4.params=
+comment4.target=void\ accountInfo()
+numComments=5
